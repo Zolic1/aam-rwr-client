@@ -1,0 +1,17 @@
+{
+  "key.aamrwr.toggle": "Toggle RWR",
+  "key.categories.aamrwr": "AAM RWR",
+  "aamrwr.on": "RWR enabled",
+  "aamrwr.off": "RWR disabled",
+  "aamrwr.waypoint_added": "Waypoint \"%s\" added at %s",
+  "aamrwr.waypoint_removed": "Waypoint \"%s\" removed",
+  "aamrwr.waypoint_missing": "Waypoint \"%s\" not found",
+  "aamrwr.waypoint_reached": "Reached waypoint \"%s\" (auto-removed)",
+  "key.aamrwr.lock": "Lock / Unlock target",
+  "aamrwr.locking": "LOCKING %s%%",
+  "key.aamrwr.all": "Toggle all-entity radar",
+  "aamrwr.all_on": "Radar: all entities (hostile red / neutral yellow / items purple)",
+  "aamrwr.all_off": "Radar: players and projectiles only",
+  "key.category.aamrwr.main": "AAM RWR",
+  "aamrwr.armor": "Armor %s"
+}

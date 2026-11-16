@@ -1,0 +1,17 @@
+{
+  "key.aamrwr.toggle": "开关 RWR 雷达",
+  "key.categories.aamrwr": "AAM RWR",
+  "aamrwr.on": "RWR 雷达已开启喵",
+  "aamrwr.off": "RWR 雷达已关闭喵",
+  "aamrwr.waypoint_added": "已添加航标「%s」→ %s 喵",
+  "aamrwr.waypoint_removed": "已删除航标「%s」喵",
+  "aamrwr.waypoint_missing": "找不到航标「%s」喵",
+  "aamrwr.waypoint_reached": "已抵达航标「%s」，已自动删除喵",
+  "key.aamrwr.lock": "手动锁定 / 取消锁定",
+  "aamrwr.locking": "锁定中 %s%%",
+  "key.aamrwr.all": "切换全实体检测",
+  "aamrwr.all_on": "雷达：全实体模式（敌红/中立黄/物品紫喵）",
+  "aamrwr.all_off": "雷达：仅玩家与弹射物喵",
+  "key.category.aamrwr.main": "AAM RWR 雷达",
+  "aamrwr.armor": "护甲 %s"
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "aam-rwr-client",
+  "version": "1.0.0",
+  "name": "AAM RWR (Client)",
+  "description": "纯客户端 RWR 雷达 HUD：显示附近玩家（红/蓝点）与来袭导弹（敌导弹告警）喵。不需要服务端安装。",
+  "authors": ["Yuike"],
+  "license": "MIT",
+  "icon": "assets/aamrwr/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.aam.rwr.RwrClientMod", "dev.aam.rwr.RwrCommands"]
+  },
+  "mixins": [
+    {
+      "config": "aamrwr.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4 <1.0.0",
+    "fabric-api": ">=0.141.0 <1.0.0",
+    "minecraft": ">=1.21.11 <1.22"
+  }
+}

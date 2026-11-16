@@ -1,0 +1,29 @@
+# Gradle
+.gradle/
+build/
+out/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Minecraft run dir
+run/
+logs/
+
+# Fabric
+.fabric/
+remappedSrc/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 本地杂项
+*.NEW
+*.OLD
+*.log
